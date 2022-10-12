@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+attribution <a href="https://www.freepik.com/free-vector/graphic-design-geometric-wallpaper_7088577.htm#query=geometric&position=8&from_view=keyword">Image by pikisuperstar</a> on Freepik
