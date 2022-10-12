@@ -43,6 +43,6 @@ code {
 }
 @media only screen and (max-width: 630px) {
   #root {
-    background: url("../public/svg\(1\).png") no-repeat 100% -100%, url("../public/svg.png") no-repeat 100% 200%;
+    background: url("../public/svg\(1\).png") no-repeat 100% 0%, url("../public/svg.png") no-repeat 100% -300%;
   }
 }
